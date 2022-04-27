@@ -33,6 +33,7 @@ credentails
 ```
 username: tauseedzaman
 password: password
+paki check sa database after you migrate the migration files 
 ```
 # That's all 🎊🎉 
 
@@ -51,8 +52,3 @@ password: password
 <img src="Screenshots/lms (12).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (13).png" width="100%" /><br /> <br />
 
-Watch demo at tauseedzaman youtube channel https://youtube.com/channel/UCnJYN9jTfEnumvJUw4rhh9A
-
-```
-Make sure to leave a start ✨✨
-```
